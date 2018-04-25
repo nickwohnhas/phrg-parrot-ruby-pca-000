@@ -5,3 +5,5 @@ tags:
 languages:
   - ruby
 resources: 1
+
+parent_template: Branch 'solution' set up to track remote branch 'solution' from 'origin'.
