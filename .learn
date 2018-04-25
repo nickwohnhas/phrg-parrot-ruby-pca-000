@@ -7,3 +7,5 @@ languages:
 resources: 1
 
 parent_template: Branch 'solution' set up to track remote branch 'solution' from 'origin'.
+
+parent_template: git@github.com:learn-co-curriculum/phrg-parrot-ruby.git
